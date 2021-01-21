@@ -158,6 +158,8 @@ Courses
 
 - `CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University <http://cs231n.stanford.edu/>`__
 - `CS224d, Deep Learning for Natural Language Processing, Stanford University <http://cs224d.stanford.edu/>`__
+- `CS230, Deep Learning, Stanford University <http://cs230.stanford.edu/>`__
+- `CS229, Machine Learning, Stanford University <http://cs229.stanford.edu/>`__
 - `Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford <https://github.com/oxford-cs-deepnlp-2017/lectures>`__
 - `Artificial Intelligence (Columbia University) <https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x>`__ - free
 - `Machine Learning (Columbia University) <https://www.edx.org/course/machine-learning-columbiax-csmm-102x>`__ - free
